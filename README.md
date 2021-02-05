@@ -10,3 +10,23 @@ For this project we build model that classify 5 celebrity:
 5. Muhammad Ali
 
 
+##Project structure:
+1.Jupyter Notebook
+   -numpy (working with arrays)
+   -cv2 (image,cascade classifier for face and eyes)
+   - matplotlib ( showing image)
+   -seaborn (confusion matrix)
+   -testing models (LinearRegression,SVM,RandomForest;folder:model)
+2.PyCharm
+  - python flask server (folder:server)
+3. Visual Studio Code
+   - UI website code(folder: UI(client)
+
+
+#Final results of project
+
+   
+   
+   
+
+
