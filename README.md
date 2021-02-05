@@ -17,7 +17,7 @@ For this project we build model that classify 5 celebrity:
 
 
 
-##Project structure:
+## Project structure:
 
 1.Jupyter Notebook
 
@@ -41,7 +41,7 @@ For this project we build model that classify 5 celebrity:
    
 
 
-#Final results of project
+# Final results of project
 
 ![result_classify_2](https://user-images.githubusercontent.com/77289083/107030378-da576e00-67b0-11eb-8b7f-9bd2c465c990.png)
    
